@@ -1,0 +1,30 @@
+﻿  MATRIX.EXE.cpp
+C:\Users\lcm\source\repos\MATRIX.EXE\MATRIX.EXE.cpp(983,14): warning C4305: “初始化”: 从“double”到“FLOAT”截断
+C:\Users\lcm\source\repos\MATRIX.EXE\MATRIX.EXE.cpp(985,11): warning C4244: “初始化”: 从“double”转换到“FLOAT”，可能丢失数据
+C:\Users\lcm\source\repos\MATRIX.EXE\MATRIX.EXE.cpp(986,49): warning C4244: “参数”: 从“FLOAT”转换到“int”，可能丢失数据
+C:\Users\lcm\source\repos\MATRIX.EXE\MATRIX.EXE.cpp(987,12): warning C4305: “+=”: 从“double”到“FLOAT”截断
+C:\Users\lcm\source\repos\MATRIX.EXE\MATRIX.EXE.cpp(1190,36): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+C:\Users\lcm\source\repos\MATRIX.EXE\MATRIX.EXE.cpp(1190,74): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+C:\Users\lcm\source\repos\MATRIX.EXE\MATRIX.EXE.cpp(1191,37): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+C:\Users\lcm\source\repos\MATRIX.EXE\MATRIX.EXE.cpp(1191,76): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+C:\Users\lcm\source\repos\MATRIX.EXE\MATRIX.EXE.cpp(1394,9): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\lcm\source\repos\MATRIX.EXE\MATRIX.EXE.cpp(1399,58): warning C4244: “参数”: 从“FLOAT”转换到“int”，可能丢失数据
+C:\Users\lcm\source\repos\MATRIX.EXE\MATRIX.EXE.cpp(1399,32): warning C4244: “参数”: 从“FLOAT”转换到“int”，可能丢失数据
+C:\Users\lcm\source\repos\MATRIX.EXE\MATRIX.EXE.cpp(1400,50): warning C4244: “参数”: 从“FLOAT”转换到“int”，可能丢失数据
+C:\Users\lcm\source\repos\MATRIX.EXE\MATRIX.EXE.cpp(1400,39): warning C4244: “参数”: 从“FLOAT”转换到“int”，可能丢失数据
+C:\Users\lcm\source\repos\MATRIX.EXE\MATRIX.EXE.cpp(1401,34): warning C4244: “参数”: 从“FLOAT”转换到“int”，可能丢失数据
+C:\Users\lcm\source\repos\MATRIX.EXE\MATRIX.EXE.cpp(1401,23): warning C4244: “参数”: 从“FLOAT”转换到“int”，可能丢失数据
+C:\Users\lcm\source\repos\MATRIX.EXE\MATRIX.EXE.cpp(1930,12): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\lcm\source\repos\MATRIX.EXE\MATRIX.EXE.cpp(1931,12): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\lcm\source\repos\MATRIX.EXE\MATRIX.EXE.cpp(1932,12): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\lcm\source\repos\MATRIX.EXE\MATRIX.EXE.cpp(2293,36): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+C:\Users\lcm\source\repos\MATRIX.EXE\MATRIX.EXE.cpp(2293,74): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+C:\Users\lcm\source\repos\MATRIX.EXE\MATRIX.EXE.cpp(2294,37): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+C:\Users\lcm\source\repos\MATRIX.EXE\MATRIX.EXE.cpp(2294,76): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+resource.rc(4): warning RC4005: 'IDI_MAIN_ICON' : redefinition
+  
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 88 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  Project1.vcxproj -> C:\Users\lcm\source\repos\MATRIX.EXE\Release\MATRIX.EXE.exe
